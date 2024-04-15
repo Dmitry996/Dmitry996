@@ -1,4 +1,4 @@
-# # Hi there, I am Ddmitry Rodin 👋
+# # Hi there, I am Dmitry Rodin 👋
 
 
 ## Education

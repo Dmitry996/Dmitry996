@@ -10,7 +10,7 @@
 
 ### Email [dimoon-96@yandex.ru](mailto:dimoon-96@yandex.ru)
 
-## Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/django-plain.svg" alt="django" width="40" height="40"/> </a>

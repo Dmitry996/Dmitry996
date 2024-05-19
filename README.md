@@ -8,7 +8,7 @@
 ## Сontacts
 <a href="https://t.me/Dmitry_1996_r" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/tg.png" alt="tg" width="40" height="40"/> </a>
 
-* ✉️ [dimoon-9@yandex.ru](mailto:dimoon-9@yandex.ru)
+### Email [dimoon-9@yandex.ru](mailto:dimoon-96@yandex.ru)
 
 ## Languages and Tools
 <p align="left">

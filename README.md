@@ -1,4 +1,4 @@
-# # Hi there, I am Dmitry Rodin 👋
+# # Hi there, I am Dmitry Rodin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 ## Education
@@ -8,7 +8,7 @@
 ## Сontacts
 <a href="https://t.me/Dmitry_1996_r" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/tg.png" alt="tg" width="40" height="40"/> </a>
 
-### Email [dimoon-9@yandex.ru](mailto:dimoon-96@yandex.ru)
+### Email [dimoon-96@yandex.ru](mailto:dimoon-96@yandex.ru)
 
 ## Languages and Tools
 <p align="left">

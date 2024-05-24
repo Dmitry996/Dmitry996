@@ -7,8 +7,8 @@
 
 ## Сontacts
 <a href="https://t.me/Dmitry_1996_r" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/tg.png" alt="tg" width="40" height="40"/> </a>
+<a href="mailto:dimoon-96@yandex.ru" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/mail.png" alt="email" width="40" height="40"/> </a>
 
-### Email [dimoon-96@yandex.ru](mailto:dimoon-96@yandex.ru)
 
 ## :hammer_and_wrench: Languages and Tools
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/python-original-wordmark.svg" alt="python" width="36" height="36"/></a>

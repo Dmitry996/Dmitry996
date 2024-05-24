@@ -6,8 +6,8 @@
   - :round_pushpin: Курсы Hexlet Python Developer
 
 ## Сontacts
-<a href="https://t.me/Dmitry_1996_r" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/tg.png" alt="tg" width="40" height="40"/> </a>
-<a href="mailto:dimoon-96@yandex.ru" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/mail.png" alt="email" width="40" height="40"/> </a>
+<a href="https://t.me/Dmitry_1996_r" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/tg.png" alt="tg" width="40" height="40"/></a>
+<a href="mailto:dimoon-96@yandex.ru" target="_blank"> <img src="https://github.com/Dmitry996/Dmitry996/blob/main/icons/mail.png" alt="email" width="40" height="40"/></a>
 
 
 ## :hammer_and_wrench: Languages and Tools
